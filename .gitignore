@@ -1,0 +1,17 @@
+.idea
+node_modules/
+bower_componments/
+*.tar
+*.zip
+*.s[a-w][a-z]
+*~
+*~.s[a-w][a-z]
+.vscode
+*/.vscode
+*/node_modules/
+.idea*
+.0*-tar.tar.gz
+*.gz
+*.rar
+*.zip
+*.k[l,w][w,c,g][k,p,t]
